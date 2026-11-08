@@ -1,0 +1,8 @@
+.git
+.github
+tests
+data
+*.db
+*.db-*
+.env
+.env.*
