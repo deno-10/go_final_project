@@ -1,0 +1,8 @@
+/scheduler
+/scheduler.exe
+/*.db
+/*.db-journal
+/*.db-shm
+/*.db-wal
+/data/
+.env
